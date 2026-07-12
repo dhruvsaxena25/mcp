@@ -26,8 +26,11 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# Added by me
+./expenses.db
+expenses.db
 # PyInstaller
-#   Usually these files are written by a python script from a template
+#   Usually these files are written by a python script fromipynb_checkpoints a template
 #   before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
